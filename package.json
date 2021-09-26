@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio of projects, compiled into one",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0",
+    "react": "^17.0.2",
+    "sass": "^1.42.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zibilianja/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zibilianja/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Zibilianja/Portfolio#readme"
+}
